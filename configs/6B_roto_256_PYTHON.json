@@ -21,7 +21,7 @@
 
   "tpu_size": 8,
 
-  "bucket": "tpu-data-gptj",
+  "bucket": "tpu-data-gptj-eu",
   "model_dir": "mesh_jax_pile_6B_rotary_PYTHON",
 
   "train_set": "python.train.index",
