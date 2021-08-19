@@ -26,8 +26,7 @@
 
   "train_set": "js.train.index",
   "val_set": {
-    "pile": "js.val.index",
-    "owt": "openwebtext2_new_inputs.val.index"
+    "pile": "js.val.index"
   },
 
   "eval_harness_tasks": [
